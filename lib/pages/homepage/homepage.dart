@@ -29,10 +29,23 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Camp of the Ice Breaker", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Devils den", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd1.png"),
-          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd3.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
+        ],
+        "Kyoto",
+        "1"),
+    Album(
+        Game("Call Of Duty Vanguard", "R", "Activation", "Lorem",
+            "lib/assets/offlineDatabase/cod vanguard (1).jpg"),
+        "Multiplayer",
+        [
+          Img("lorem",
+              "lib/assets/offlineDatabase/cod vanguard (1).jpg"),
+          Img("lorem", "lib/assets/offlineDatabase/cod vanguard (2).jpg"),
+          Img("lorem", "lib/assets/offlineDatabase/cod vanguard (3).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -41,10 +54,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Camp of the Ice Breaker", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Devils den", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd1.png"),
-          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd3.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -53,9 +67,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -64,9 +80,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -75,9 +93,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -86,9 +106,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -97,9 +119,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -108,9 +132,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -119,20 +145,11 @@ class _HomepageState extends State<Homepage> {
             "lib/assets/offlineDatabase/hzdCoverImg.png"),
         "City of the Ancient One",
         [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
-        ],
-        "Kyoto",
-        "1"),
-    Album(
-        Game("Horizon Zero Dawn", "R", "PlayStation", "Lorem",
-            "lib/assets/offlineDatabase/hzdCoverImg.png"),
-        "City of the Ancient One",
-        [
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd4.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd2.png"),
-          Img("Ancient Ones", "lib/assets/offlineDatabase/hzd1.png"),
+          Img("Camp of the Ice Breaker",
+              "lib/assets/offlineDatabase/hzd (5).jpg"),
+          Img("Devils den", "lib/assets/offlineDatabase/hzd (3).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (1).jpg"),
+          Img("Forgotten wars", "lib/assets/offlineDatabase/hzd (4).jpg"),
         ],
         "Kyoto",
         "1"),
@@ -162,12 +179,12 @@ class _HomepageState extends State<Homepage> {
       controller: zoomDrawerController,
       borderRadius: 24.0,
       showShadow: true,
-      openCurve: Curves.linearToEaseOut,
-      closeCurve: Curves.linearToEaseOut,
-      angle: -2,
+      openCurve: Curves.fastLinearToSlowEaseIn,
+      closeCurve: Curves.fastLinearToSlowEaseIn,
+      angle: -5,
       style: DrawerStyle.Style1,
       backgroundColor: Theme.of(context).colorScheme.secondary,
-      slideWidth: MediaQuery.of(context).size.width * 0.55,
+      slideWidth: MediaQuery.of(context).size.width * 0.60,
     );
   }
 
@@ -500,7 +517,7 @@ class _HomepageState extends State<Homepage> {
 
   Container customAppBar() {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 20),
+      padding: EdgeInsets.symmetric(horizontal: 8),
       height: 100,
       width: double.maxFinite,
       // color: Colors.pink,
@@ -513,19 +530,19 @@ class _HomepageState extends State<Homepage> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              GestureDetector(
-                onTap: () {
+              IconButton(
+                onPressed: () {
                   print('Opening zoom drawer');
                   zoomDrawerController.toggle?.call();
                   setState(() {});
                 },
-                child: Icon(
+                icon: const Icon(
                   FontAwesomeIcons.bars,
                   color: Colors.white,
                   size: 20,
                 ),
               ),
-              Icon(
+              const Icon(
                 FontAwesomeIcons.search,
                 color: Colors.white,
                 size: 20,
@@ -541,6 +558,7 @@ class _HomepageState extends State<Homepage> {
 
   PageView getHomePage() {
     return PageView.builder(
+      physics: BouncingScrollPhysics(),
       controller: _postPageController,
       onPageChanged: (index) {
         setState(() {
@@ -576,16 +594,16 @@ class _HomepageState extends State<Homepage> {
               Container(
                 height: MediaQuery.of(context).size.height,
                 width: MediaQuery.of(context).size.width,
-                decoration: const BoxDecoration(
+                decoration: BoxDecoration(
                     color: Colors.red,
                     gradient: LinearGradient(
                       colors: [
+                        Colors.black.withOpacity(0.3),
+                        Colors.black,
+                        Colors.black,
                         Colors.transparent,
-                        Colors.transparent,
-                        Colors.transparent,
-                        Colors.black54,
                       ],
-                      stops: [0, 0, 0, 20],
+                      stops: [10, 10, 10, 0],
                       begin: Alignment.bottomCenter,
                       end: Alignment.topCenter,
                     )),
@@ -656,19 +674,18 @@ class _HomepageState extends State<Homepage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Container(
-              height: MediaQuery.of(context).size.height * .4,
-              // color: Colors.red,
-              width: MediaQuery.of(context).size.width,
-              child: PageView.builder(
-                itemCount: 3,
-                controller: _postAlbumImageController,
-                scrollDirection: Axis.horizontal,
-                itemBuilder: (context, albumIndex) {
-                  // posts[index].albumImages.shuffle();
-                  return Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Transform.scale(
-                      scale: 1,
+                height: MediaQuery.of(context).size.height * .4,
+                // color: Colors.red,
+                width: MediaQuery.of(context).size.width,
+                child: ListView.builder(
+                  physics: BouncingScrollPhysics(),
+                  itemCount: posts[index].albumImages.length,
+                  scrollDirection: Axis.horizontal,
+                  itemBuilder: (context, albumIndex) {
+                    return Container(
+                      padding: albumIndex==0? EdgeInsets.only(
+                          left: 50, top: 25, bottom: 25, right: 5) : EdgeInsets.only(
+                          left: 5, top: 25, bottom: 25, right: 5),
                       child: Stack(
                         children: [
                           ClipRRect(
@@ -677,12 +694,20 @@ class _HomepageState extends State<Homepage> {
                               posts[index]
                                   .albumImages[albumIndex]
                                   .imageLocation,
-                              height: MediaQuery.of(context).size.height * .4,
+                              height: MediaQuery.of(context).size.height * .45,
                               fit: BoxFit.cover,
-                              width: MediaQuery.of(context).size.width * .8,
+                              width: MediaQuery.of(context).size.width * .55,
                               // alignment: Alignment(
                               //     -albumPageOffset.abs() + 1,
                               //     0),
+                            ),
+                          ),
+                          Container(
+                            height: MediaQuery.of(context).size.height * .45,
+                            width: MediaQuery.of(context).size.width * .55,
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(15),
+                              color: Colors.black.withOpacity(.1),
                             ),
                           ),
                           Positioned(
@@ -702,14 +727,12 @@ class _HomepageState extends State<Homepage> {
                           )
                         ],
                       ),
-                    ),
-                  );
-                },
-              ),
-            ),
+                    );
+                  },
+                )),
             Container(
               height: 50,
-              padding: EdgeInsets.symmetric(horizontal: 20),
+              padding: EdgeInsets.symmetric(horizontal: 25),
               // color: Colors.blue,
               child: Row(
                 children: [

@@ -185,7 +185,30 @@ class _AccountPageState extends State<AccountPage>
                           ),
                         ),
                         Container(
-                          child: Text('Posts'),
+                          child:
+                          Column(
+                            children: const [
+                              SizedBox(height: 10,),
+                              Card(
+                                child: ListTile(
+                                  title: Text("Lorem"),
+                                    subtitle: Text(" loremadhgoihfgoaiDFGOHIDF"),
+                                ),
+                              ),
+                              Card(
+                                child: ListTile(
+                                  title: Text("Lorem"),
+                                    subtitle: Text(" loremadhgoihfgoaiDFGOHIDF"),
+                                ),
+                              ),
+                              Card(
+                                child: ListTile(
+                                  title: Text("Lorem"),
+                                    subtitle: Text(" loremadhgoihfgoaiDFGOHIDF"),
+                                ),
+                              ),
+                            ],
+                          ),
                         ),
                         Container(
                           child: Text('Gallery'),

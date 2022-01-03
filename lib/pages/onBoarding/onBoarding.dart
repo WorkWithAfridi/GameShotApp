@@ -18,15 +18,15 @@ class _onBoardingPageState extends State<onBoardingPage> {
     onBoardingImage(
         'title',
         'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
-        'lib/assets/onBoardingImages/hzd1.png'),
+        'lib/assets/offlineDatabase/hzd (4).jpg'),
     onBoardingImage(
         'title2',
         'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
-        'lib/assets/onBoardingImages/fortnite.png'),
+        'lib/assets/offlineDatabase/hzd (3).jpg'),
     onBoardingImage(
         'title3',
         'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.',
-        'lib/assets/onBoardingImages/nfs.png'),
+        'lib/assets/offlineDatabase/hzd (2).jpg'),
   ];
 
   PageController _pageController = new PageController();
