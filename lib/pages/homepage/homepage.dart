@@ -162,6 +162,8 @@ class _HomepageState extends State<Homepage> {
       controller: zoomDrawerController,
       borderRadius: 24.0,
       showShadow: true,
+      openCurve: Curves.linearToEaseOut,
+      closeCurve: Curves.linearToEaseOut,
       angle: -2,
       style: DrawerStyle.Style1,
       backgroundColor: Theme.of(context).colorScheme.secondary,
