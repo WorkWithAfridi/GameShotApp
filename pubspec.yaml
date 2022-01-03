@@ -38,6 +38,7 @@ dependencies:
   provider: any
   font_awesome_flutter: any
   smooth_page_indicator: any
+  flutter_zoom_drawer: any
 
 dev_dependencies:
   flutter_test:
